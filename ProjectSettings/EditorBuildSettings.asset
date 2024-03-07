@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Main.unity
+    guid: 8faefcd55d8459547950ba4ce833a7e5
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level0.unity
+    guid: 873f8293307a4fa48963b92c156cfc4a
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level1.unity
+    guid: 28f38825a5011ab40b7c572494a4ac83
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level2.unity
+    guid: 14edc5dc1920f0f40b3a851b1c464da8
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level3.unity
+    guid: 335645f55ac66054a9eba73c109fa565
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level4.unity
+    guid: 800ede76cc91e6f4f97d15b8ff392017
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level5.unity
+    guid: 6990f73de09a1594eb48df66a5dda742
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level6.unity
+    guid: 43c238a874f3c444a877efa34649a020
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level7.unity
+    guid: 61f872c087b04574bacec2dff8455114
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level8.unity
+    guid: c4ebc992aa247f949b86d7bfc2e3fe16
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level9.unity
+    guid: 8825a9c58010649428fd1af5e37b5f35
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level10.unity
+    guid: ecf70eecf6fb93342b8cfd28825eb1ff
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level11.unity
+    guid: 9ef86c5a75523184597ea65e556c7716
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level12.unity
+    guid: d1a392ebaecbf9d458d026158c03b9b2
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level13.unity
+    guid: 1c54a50e568e6264b9b194ed20479790
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level14.unity
+    guid: 471c4ac9afa91b746a6e52c168c5326a
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level15.unity
+    guid: 53da0b28d3352bb47a87821c363f1b6b
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level16.unity
+    guid: 5c30e956095ea9c499f39c507cd61f9c
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level17.unity
+    guid: c9c932e709b534c428c380a434d6f797
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level18.unity
+    guid: 2e6a562fa2e2f4549b116e43247ccd46
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level19.unity
+    guid: 2ce928e352d45d7458caa1b27eb40f48
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level20.unity
+    guid: 20ddcee80e0c6224ca815eab040712eb
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level21.unity
+    guid: 3765415ff417164439d5dc8b7eccaac5
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level22.unity
+    guid: f28ea6e2f6a107444a39ea245711073a
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level23.unity
+    guid: ce74a883d74f92a43a40160b1a8c4ce0
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level24.unity
+    guid: 355bf1edd32ec5a4193c5aee9101f4e4
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level25.unity
+    guid: 3be9d725d70a50d458a8c5337f7a1f51
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level26.unity
+    guid: 2c8d40fdc4a693f448e19a547765fc48
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level27.unity
+    guid: ecd49937255f9dd4ab40d081899631f0
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level28.unity
+    guid: ad73a950e03db7142a8ef43227493294
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level29.unity
+    guid: bc78ad1b4d4f7da488f964f001d51599
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level30.unity
+    guid: 5a57f45b56f77c64782d8578a7c84372
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level31.unity
+    guid: c14a779452d426c478afb55fd3132ce4
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level32.unity
+    guid: 92837189abd57c24184a6b5eed1796ae
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level33.unity
+    guid: 6ce96bdf42eb1254784deb5a434b8f64
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level34.unity
+    guid: 654b6e3f610d0df40a4542871c551ce3
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level35.unity
+    guid: 33bc97702be941544b0691430dcfc41d
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level36.unity
+    guid: ceaaa87923f8a694ab056902345a268d
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level37.unity
+    guid: e033d6fc48c4f3f4d9440b01d84b4c9b
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level38.unity
+    guid: aab0e9e79fc7dcf40ae4d978db4fb9e0
+  - enabled: 1
+    path: Assets/ClickTower/Scenes/Level39.unity
+    guid: 9188cd69de4722b40b9c8f163a017c94
+  m_configObjects: {}

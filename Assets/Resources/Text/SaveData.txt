@@ -1,0 +1,10 @@
+﻿{
+	"LanguageKey": 0,
+	"CurrentGameLevel": 0,
+	"GoodsList":["1g10"],
+	"musicVolume":0.7,
+	"soundVolume":0.7,
+	"PhysicalPower":0,
+	"TimestampMinutes":0,
+	"IsVip":false
+}
