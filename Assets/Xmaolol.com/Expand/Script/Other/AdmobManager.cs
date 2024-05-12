@@ -15,9 +15,9 @@ public class AdmobManager : MonoBehaviour
     {
 
 #if UNITY_ANDROID
-        string appId = "ca-app-pub-3940256099942544~3347511713";
+        string appId = "ca-app-pub-39402560544~3347511713";
 #elif UNITY_IPHONE
-        string appId = "ca-app-pub-3940256099942544~1458002511";
+        string appId = "ca-app-pub-3940256099~1458002511";
 #else
         string appId = "unexpected_platform";
 #endif

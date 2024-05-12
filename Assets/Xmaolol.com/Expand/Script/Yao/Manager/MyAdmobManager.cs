@@ -31,11 +31,11 @@ namespace xmaolol.com
         {
 
 #if UNITY_ANDROID
-        string appId = "ca-app-pub-8118569577100316";
+        string appId = "ca-app-pub-8118100316";
 #elif UNITY_IPHONE
-        string appId = "ca-app-pub-3940256099942544~1458002511";
+        string appId = "ca-app-pub99942544~1458002511";
 #else
-            string appId = "unexpected_platform";
+            string appId = "unexpectatform";
 #endif
 
             MobileAds.SetiOSAppPauseOnBackground(true);

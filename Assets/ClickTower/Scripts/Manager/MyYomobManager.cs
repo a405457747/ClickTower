@@ -9,12 +9,12 @@ using xmaolol.com;
 
 public class MyYomobManager : MonoSingleton<MyYomobManager>
 {
-    private readonly string AppID = "9115V8hQ76mmvx487Pg7";
+    private readonly string AppID = "9115";
     //看广告恢复体力
-    private readonly string AwardVedioSceneID = "pa4ZeihqWSMb32sX0IM";
-    private readonly string TableSceneID = "LNzfPI1ErjtkDcz5KJS";
-    private readonly string CanCloseVedioSceneID = "y1wodWEHFANY6NqIzin";
-    private readonly string BannerSceneID = "ZEPflDziZLO4isxZyta";
+    private readonly string AwardVedioSceneID = "pasX0IM";
+    private readonly string TableSceneID = "LNzfPI1E";
+    private readonly string CanCloseVedioSceneID = "y1wodIzin";
+    private readonly string BannerSceneID = "ZEPta";
 
 
     public Text logField;
